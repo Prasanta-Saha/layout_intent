@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">layout_intent</string>
+    <string name="title1">Welcome To The First Layout</string>
+    <string name="image1s">image1</string>
+    <string name="go">Go</string>
+    <string name="title2">This Is The Second Activity</string>
+    <string name="title3">This Is The Last Activity</string>
+</resources>
